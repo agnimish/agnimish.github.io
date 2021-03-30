@@ -4,7 +4,8 @@ collection: talks
 type: "Core Team Member"
 permalink: /workexp/head-techkriti
 venue: "Techkriti 2020"
-date: 2020-03-01
+date: 2019-10-01
+enddate: 2020-04-20
 location: "IIT Kanpur, India"
 ---
 

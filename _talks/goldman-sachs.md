@@ -4,7 +4,8 @@ collection: talks
 type: "Summer Internship"
 permalink: /workexp/goldman-sachs
 venue: "Goldman Sachs"
-date: 2020-05-10
+date: 2020-05-08
+enddate: 2020-06-22
 location: "Bengaluru, India"
 ---
 

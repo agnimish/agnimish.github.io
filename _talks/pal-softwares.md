@@ -5,6 +5,7 @@ type: "Summer Internship"
 permalink: /workexp/pal-softwares
 venue: "Pal Softwares"
 date: 2020-04-01
+enddate: 2020-05-20
 location: "IIT Kanpur, India"
 ---
 

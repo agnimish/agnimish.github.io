@@ -5,6 +5,7 @@ type: "Summer Internship"
 permalink: /workexp/new-york-office
 venue: "New York Office"
 date: 2018-05-01
+enddate: 2018-06-30
 location: "IIT Kanpur, India"
 ---
 
