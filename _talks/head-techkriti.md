@@ -1,7 +1,7 @@
 ---
-title: "Haed, Web and App"
+title: "Head, Web and App"
 collection: talks
-type: "project lead"
+type: "Core Team Member"
 permalink: /workexp/head-techkriti
 venue: "Techkriti 2020"
 date: 2020-03-01
@@ -9,6 +9,7 @@ location: "IIT Kanpur, India"
 ---
 
 [Techkriti website](https://2020.techkriti.org/)
+Headed a 3-tier team of 40+ students to build a chain of 7 websites & an android application for Asia's largest Technical and Entrepreneaurial college festival **Techkriti**. 
 
 **Leadership**  
 * Spearheaded a 3-tier team of 40+ students to build a chain of 7 websites & an android application for festival 

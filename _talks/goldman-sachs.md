@@ -8,7 +8,8 @@ date: 2020-05-10
 location: "Bengaluru, India"
 ---
 
-Worked as Data Analyst and Strategist in Cards Fraud Strategy Team under **Marcus** - Consumer divion of Goldman Sachs  
+Worked as Data Analyst and Strategist in Cards Fraud Strategy Team under **Marcus** - Consumer divion of Goldman Sachs.  
+Built data-driven strategies backed with ML based models to capture fraud rings in credit card application space.
 
 **Objective**  
   
@@ -28,4 +29,4 @@ Worked as Data Analyst and Strategist in Cards Fraud Strategy Team under **Marcu
 * Increased Fraud Hit Rate by 30% at pre-booking level & reduced False Positive by 25%, enhancing user experience  
 * Captured family fraud rings worth 84K dollars losses and fraud applications worth 50K dollars with huge income variation  
  
-* My work in fraud detection was appreciated and converted into a full-time job offer at Goldman Sachs!
+My work in fraud detection was appreciated and converted into a full-time job offer at Goldman Sachs!

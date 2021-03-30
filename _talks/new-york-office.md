@@ -8,7 +8,7 @@ date: 2018-05-01
 location: "IIT Kanpur, India"
 ---
 
-[Project Verfication Form](https://agnimish.github.io/files/nyo-pvf.pdf)
+Worked on a scalable web application as frontend developer, responsble for implementing advanced functionalities using backend API's and enhancing UI/UX of the application. 
 
 **Objective**  
 * Implement advanced features & enhance UI/UX of a unified social platform, designed in latest MVVM architecture  
@@ -20,3 +20,5 @@ location: "IIT Kanpur, India"
 **Impact**  
 * Enriched user experience for 10 million users worldwide by integrating the latest Angular Material and Design 
 * Reduced search and loading time by 50% after implementing state-of-the-art ElasticSearch and lazy loading
+
+[Project Verfication Form](https://agnimish.github.io/files/nyo-pvf.pdf)
